@@ -1,4 +1,4 @@
-# Intro 🤓 
+# Intro
 
 typdef struct __Person__ {<br/>
 &emsp;&emsp; char name[128] = "Nishad Wajge";<br/>
