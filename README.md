@@ -1,13 +1,13 @@
 # Intro 🤓 
 
-class **Person**:
+typdef struct __Person__ {<br/>
+&emsp;&emsp; char name[128] = "Nishad Wajge";<br/>
+&emsp;&emsp; char major[128] = "Computer Science (Machine Learning Track) and Statistics";<br/>
+&emsp;&emsp; char college[128] = "University of Maryland, Computer Science";<br/>
+&emsp;&emsp; int year = 2;<br/>
+&emsp;&emsp; char company[128] = "Internal Revenue Service (IRS)";<br/>
 
-  &emsp;&emsp;def ____init____ (_self_):<br/>
-    &emsp;&emsp;&emsp;&emsp;self.name = "Nishad Wajge"<br/>
-    &emsp;&emsp;&emsp;&emsp;self.major = "Computer Science & Statistics"<br/>
-    &emsp;&emsp;&emsp;&emsp;self.college = "University of Maryland, College Park"<br/>
-    &emsp;&emsp;&emsp;&emsp;self.year = 2<br/>
-    &emsp;&emsp;&emsp;&emsp;self.current_company = "Internal Revenue Service (IRS)"<br/>
+} NW;
 
 
   
