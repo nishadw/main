@@ -2,8 +2,8 @@
 
 class **Nishad Wajge**:
 
-  def __init__(_self_):
-    self.name = "Nishad Wajge"
+  def __init__(_self_):< br / >
+    self.name = "Nishad Wajge"< br / >
     self.major = "Computer Science & Statistics"
     self.college = "University of Maryland, College Park"
     self.year = 2
