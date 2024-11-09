@@ -1,6 +1,6 @@
 # Intro 🤓 
 
-class **Nishad Wajge**:
+class **Person**:
 
   def __init__(_self_):<br/>
     &emsp;&emsp;self.name = "Nishad Wajge"<br/>
